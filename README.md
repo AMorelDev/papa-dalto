@@ -10,35 +10,21 @@ este es un repo de soydalto, creado para el curso de git
 ## HEAD references
 $ git reflog
 
-3923c (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: commit (merge): Merge branch 'master' of https://github.com/AMorelDev/repo-uno
-
-14e38 HEAD@{1}: checkout: moving from 457c452727be8c4a8c1a38cc535d37704d67859c to master
-
-457c4 HEAD@{2}: checkout: moving from master to origin/master
-
-14e38 HEAD@{3}: checkout: moving from master to master
-
-14e38 HEAD@{4}: checkout: moving from 457c452727be8c4a8c1a38cc535d37704d67859c to master
-
-457c4 HEAD@{5}: checkout: moving from master to origin/master
-
-14e38 HEAD@{6}: checkout: moving from master to master
-
-14e38 HEAD@{7}: checkout: moving from master to master
-
-14e38 HEAD@{8}: checkout: moving from master to master
-
-14e38 HEAD@{9}: commit (merge): Merge branch 'master' of https://github.com/AMorelDev/repo-uno
-
-58789 HEAD@{10}: commit: modificando nombre
-
-71eb5 HEAD@{11}: pull: Fast-forward
-
-3c4fa HEAD@{12}: pull: Fast-forward
-
-b312d HEAD@{13}: commit: cambiando el nombre
-
-7f2d3 HEAD@{14}: clone: from https://github.com/AMorelDev/repo-uno.git
+* 3923c (HEAD -> master, origin/master, origin/HEAD) HEAD@{0}: commit (merge): Merge branch 'master' of https://github.com/AMorelDev/repo-uno
+* 14e38 HEAD@{1}: checkout: moving from 457c452727be8c4a8c1a38cc535d37704d67859c to master
+* 457c4 HEAD@{2}: checkout: moving from master to origin/master
+* 14e38 HEAD@{3}: checkout: moving from master to master
+* 14e38 HEAD@{4}: checkout: moving from 457c452727be8c4a8c1a38cc535d37704d67859c to master
+* 457c4 HEAD@{5}: checkout: moving from master to origin/master
+* 14e38 HEAD@{6}: checkout: moving from master to master
+* 14e38 HEAD@{7}: checkout: moving from master to master
+* 14e38 HEAD@{8}: checkout: moving from master to master
+* 14e38 HEAD@{9}: commit (merge): Merge branch 'master' of https://github.com/AMorelDev/repo-uno
+* 58789 HEAD@{10}: commit: modificando nombre
+* 71eb5 HEAD@{11}: pull: Fast-forward
+* 3c4fa HEAD@{12}: pull: Fast-forward
+* b312d HEAD@{13}: commit: cambiando el nombre
+* 7f2d3 HEAD@{14}: clone: from https://github.com/AMorelDev/repo-uno.git
 
 ## commits al final del curso (pendiente)
 $ git log-simple
